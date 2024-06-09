@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 Hi! I'm Jhotacode 👋<br>I'm a student of Systems and Computer Engineering. I currently study at UTP in Pereira, and I'm a lover of programming 💻. I'm in the process of learning, exploring new technologies, and improving my abilities day by day 🚀. I like to be self-taught and enjoy programming in Java, Python, and C++.<br><br>I am especially interested in the field of Artificial Intelligence and Data Science 🤖📊. I am fascinated by how these disciplines can transform large amounts of data into valuable information and how intelligent algorithms can solve complex problems. Additionally, I like languages, and in my free time, I enjoy reading 📚 and playing football ⚽.
 
 
